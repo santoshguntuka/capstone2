@@ -9,7 +9,7 @@ function SuccesForm() {
 
          
                <h2>
-                   Your Form has Succesfully submitted we will Schedule a meeting within three days
+                   Your Form has Succesfully submitted the details we will Schedule a meeting within three days
                </h2>
 
                <Link to = '/'><button className='btn'>Back to Home</button></Link>

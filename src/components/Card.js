@@ -11,7 +11,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/baby1.jpg'
-              text='in India more 30 millios orphans'
+              text='in India there are more than 30 million orphans'
               
               path='/children'
             />
@@ -25,7 +25,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/baby3.jpg'
-              text=" they 'cant't full their Needs'"
+              text=" they cannot fullfil their Needs'"
              
               path='/children'
             />
@@ -45,13 +45,13 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/baby6.jpg'
-              text='the Parents who have  genetical issues need not to shy'
+              text='the Parents are not coming forward to adopt'
              
               path='/children'
             />
             <CardItem
               src='images/main.jpg'
-              text='So dont shy to Adopt a child '
+              text='So dont feel shy to Adopt a child '
              
               path='/children'
             />

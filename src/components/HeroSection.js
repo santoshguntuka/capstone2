@@ -17,8 +17,8 @@ function HeroSection() {
     
       <img src = 'images/main.jpg' alt='' className='home-image'/>
       <h2>
-        Welcome ❤️ 
-        we are the Reputed Agency wich make Easier to the parents who wants to Adopt a baby from trusts and governament child care centers.
+        Welcome 
+        we are a Reputed Agency wich make Easier to the parents who wants to Adopt a baby from trusts and governament child care centers.
         for more information let Get Start 
       </h2>
       
